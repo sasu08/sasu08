@@ -6,7 +6,7 @@
 
 - ⚡ I’m currently studying "Licenciatura en Sistemas" (Bachelor's Degree in Systems) at Universidad Nacional del Nordeste.
 - 💬 I’m learning data analysis in Coderhouse and soon I'll start a data science course in the same place.
-- 🔭 I would like to get my first job as junior data analyst/data scientist.
+- 🔭 I would like to get my first job as junior or trainee for data analyst/BI analyst.
 - 😄 Ask me about anything, I'm willing to help.
 - 📫 How to reach me: __juancaceres008@gmail.com__
 
