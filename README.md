@@ -4,6 +4,7 @@
 
 **About me:**
 
+- 🥷🏻 My name is Juan Gabriel Cáceres Braun.
 - ⚡ I’m currently studying "Licenciatura en Sistemas" (Bachelor's Degree in Systems) at Universidad Nacional del Nordeste and "Certified Tech Developer" at Digital House.
 - 💬 I’m working as junior data scientist at Legal Hub's internship.
 - 😄 Ask me about anything, I'm willing to help.
